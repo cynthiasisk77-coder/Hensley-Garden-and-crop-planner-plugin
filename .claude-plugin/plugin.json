@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hensley-garden",
+  "displayName": "Hensley Garden & Crop Planner",
+  "version": "1.0.0",
+  "description": "Garden research from the Hensley Garden & Crop Planner: frost dates for any US ZIP, the Plant & Soil Matchmaker for vegetables, herbs and fruit, sourced crop growing facts, garden topic summaries and pest and disease identification. Built from university Extension sources and 40 years of East Texas growing.",
+  "author": {
+    "name": "Hensley",
+    "email": "apps.by.hensley@gmail.com",
+    "url": "https://appsbyhensley.com/garden/"
+  },
+  "homepage": "https://appsbyhensley.com/garden/",
+  "privacyPolicyUrl": "https://appsbyhensley.com/garden/privacy.html",
+  "documentationUrl": "https://github.com/cynthiasisk77-coder/Hensley-Garden-and-crop-planner-plugin#readme",
+  "supportUrl": "https://appsbyhensley.com/garden/support.html",
+  "termsOfServiceUrl": "https://appsbyhensley.com/garden/terms.html",
+  "repository": "https://github.com/cynthiasisk77-coder/Hensley-Garden-and-crop-planner-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["gardening", "frost-dates", "vegetable-garden", "crop-planning", "soil-ph", "extension-research"],
+  "icon": ".claude-plugin/icon.png"
+}
