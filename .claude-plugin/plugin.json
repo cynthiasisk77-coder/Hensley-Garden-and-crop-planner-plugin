@@ -7,13 +7,13 @@
   "author": {
     "name": "Hensley",
     "email": "apps.by.hensley@gmail.com",
-    "url": "https://appsbyhensley.com/garden/"
+    "url": "https://hensley-garden-plugin-production.up.railway.app/garden/"
   },
-  "homepage": "https://appsbyhensley.com/garden/",
-  "privacyPolicyUrl": "https://appsbyhensley.com/garden/privacy.html",
+  "homepage": "https://hensley-garden-plugin-production.up.railway.app/garden/",
+  "privacyPolicyUrl": "https://hensley-garden-plugin-production.up.railway.app/garden/privacy.html",
   "documentationUrl": "https://github.com/cynthiasisk77-coder/Hensley-Garden-and-crop-planner-plugin#readme",
-  "supportUrl": "https://appsbyhensley.com/garden/support.html",
-  "termsOfServiceUrl": "https://appsbyhensley.com/garden/terms.html",
+  "supportUrl": "https://hensley-garden-plugin-production.up.railway.app/garden/support.html",
+  "termsOfServiceUrl": "https://hensley-garden-plugin-production.up.railway.app/garden/terms.html",
   "repository": "https://github.com/cynthiasisk77-coder/Hensley-Garden-and-crop-planner-plugin",
   "license": "LicenseRef-Proprietary",
   "keywords": ["gardening", "frost-dates", "vegetable-garden", "crop-planning", "soil-ph", "extension-research"],

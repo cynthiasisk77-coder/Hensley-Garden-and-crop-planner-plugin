@@ -42,14 +42,14 @@ In Claude Code, run `/plugin`, find Hensley Garden & Crop Planner, and install i
 
 The Hensley Garden & Crop Planner app for iPhone and Android plans every bed, matches crops to
 each spot (including wind, slope and sun times), keeps the full growing guides, and works
-offline. Try it free for 7 days: https://appsbyhensley.com/garden/
+offline. Try it free for 7 days: https://hensley-garden-plugin-production.up.railway.app/garden/
 
 ## Links
 
-- Website: https://appsbyhensley.com/garden/
-- Privacy policy: https://appsbyhensley.com/garden/privacy.html
-- Terms of service: https://appsbyhensley.com/garden/terms.html
-- Support: https://appsbyhensley.com/garden/support.html (apps.by.hensley@gmail.com)
+- Website: https://hensley-garden-plugin-production.up.railway.app/garden/
+- Privacy policy: https://hensley-garden-plugin-production.up.railway.app/garden/privacy.html
+- Terms of service: https://hensley-garden-plugin-production.up.railway.app/garden/terms.html
+- Support: https://hensley-garden-plugin-production.up.railway.app/garden/support.html (apps.by.hensley@gmail.com)
 
 ## License
 
